@@ -1,3 +1,43 @@
 *{background-color: darkgreen;}
 .King {color: gold; background-color: black;}
 #Queen {color: silver; background-color: indigo;}
+
+
+
+/*Class w/ Toni*/
+
+
+/*select by selector*/
+h1 {color: gold;
+    border: 1px solid;
+}
+
+p {color: blue;}
+
+
+/*select by class*/
+.Almighty {
+    font-size: 50px;
+    color: aqua;
+}
+.p1 {
+    color: white;
+    border: 2px solid pink;
+}
+
+.linktoGoogle {
+    background: black;
+    color: grey;
+    text-decoration: none;
+}
+
+.linktoGoogle:hover {
+    background: grey;
+    color: black;
+}
+
+
+/*select by id*/
+#firstpghdr {
+    color: aqua;
+}
